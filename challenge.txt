@@ -1,0 +1,18 @@
+Secret Finder
+
+Developers sometimes commit passwords or keys by mistake. Build a CLI tool that finds
+them in a change.
+
+   •    Input: a git diff (file or stdin), a commit hash, or the current changes in the
+        working directory
+   •    Output: a list of findings with file and line, and a short reason for each
+
+Rules
+
+   •    Start from scratch. CLI only. Use any language, tools, or AI you want.
+   •    Time: about 30 minutes.
+   •    The repo must include a short README (how to run it, where it fails) and 2-3
+        tests.
+   •    If you used AI, include your prompts or logs.
+   •    Later, we may ask you to explain your work.
+
